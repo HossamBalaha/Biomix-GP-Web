@@ -4,8 +4,8 @@ Biomix Web Application.
 [![GitHub stars](https://img.shields.io/github/stars/HossamBalaha/Biomix-Web.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/HossamBalaha/Biomix-Web/stargazers/) [![GitHub followers](https://img.shields.io/github/followers/HossamBalaha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HossamBalaha?tab=followers) [![GitHub watchers](https://img.shields.io/github/watchers/HossamBalaha/Biomix-Web.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/HossamBalaha/Biomix-Web/watchers/)
 
 ## (1) Introduction:
-This web application is developed by "Lect. Assist. Hossam Magdy Balaha" to help a team named "Biomix" in their graduation project. 
-The project was supervised by "Dr. Mahmoud Saafan" and "Lect. Assist. Hossam Magdy Balaha".
+The project was mainly supervised by "Dr. Mahmoud Saafan" (Computers Engineering and Systems Departments, Faculty of Engineering, Mansoura University) and "Lect. Assist. Hossam Magdy Balaha" (Computers Engineering and Systems Departments, Faculty of Engineering, Mansoura University) in 2020-2021.
+This uploaded web application is developed by "Lect. Assist. Hossam Magdy Balaha" to help a team named "Biomix" in their graduation project. 
 It is uploaded to help other teams and beginners in their projects.
 The major source files (i.e., "SASS", "Migrations", "Seeders", and "Factories") are removed and can be shared upon written requests. However, the compiled SASS files and the SQL database file are provided in the uploaded project.
 Notice: The project is licensed by "CC BY-NC-SA 4.0".
