@@ -13,6 +13,6 @@ Notice: The project is licensed by "CC BY-NC-SA 4.0".
 ## (2) Licence:
 The project is licensed by "CC BY-NC-SA 4.0".
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
->The "CC BY-NC-SA 4.0" is one of the Creative Commons (CC) licenses and allows the different users to share the dataset only if they (1) give the credits to the copyright holders, (2) do not use the dataset for any commercial purposes, and (3) distribute any additions, transformations or changes to the dataset under this same license.
+>The "CC BY-NC-SA 4.0" is one of the Creative Commons (CC) licenses and allows the different users to share the project only if they (1) give the credits to the copyright holders, (2) do not use the project for any commercial purposes, and (3) distribute any additions, transformations or changes to the project under this same license.
 
 Full Description: https://creativecommons.org/licenses/by-nc-sa/4.0/
