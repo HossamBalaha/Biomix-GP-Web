@@ -1,6 +1,6 @@
 # Biomix Web Application
 Biomix Web Application.
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/s00521-020-05397-2.svg)](https://doi.org/10.1007/s00521-020-05397-2) 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 [![GitHub stars](https://img.shields.io/github/stars/HossamBalaha/Biomix-Web.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/HossamBalaha/Biomix-Web/stargazers/) [![GitHub followers](https://img.shields.io/github/followers/HossamBalaha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HossamBalaha?tab=followers) [![GitHub watchers](https://img.shields.io/github/watchers/HossamBalaha/Biomix-Web.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/HossamBalaha/Biomix-Web/watchers/)
 
 ## (1) Introduction:
